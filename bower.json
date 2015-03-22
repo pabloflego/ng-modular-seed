@@ -1,12 +1,12 @@
 {
-  "name": "AngularJS Modular Demo",
+  "name": "AngularJS Modular Seed",
   "version": "0.0.1",
-  "description": "AngularJS Modular Demo",
+  "description": "AngularJS Modular Seed based on John Papa's Modular Demo",
   "authors": [
     "John Papa"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/ng-demos",
+  "homepage": "https://github.com/pabloflego/ng-modular-seed",
   "ignore": [
     "**/.*",
     "node_modules",
